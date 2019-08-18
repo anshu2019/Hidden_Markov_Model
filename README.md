@@ -1,2 +1,2 @@
 # hiddenmarkovmodel
-This code shows a feed forward approach for a hidden markov model.
+Implementation of a Hidden Markov Model for Speech tagging.
